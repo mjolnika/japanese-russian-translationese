@@ -4,7 +4,7 @@
 *«Количественные характеристики языка художественных переводов с японского на русский»*
 
 Для ознакомления вы можете посмотреть файлы:<br>
-добавление грамматических фичей, основанных на характеристиках японского [一](https://github.com/mjolnika/japanese-russian-translationese/blob/main/Japanese_Russian_Translationese_prepare_features.ipynb)<br>
+1) добавление грамматических фичей, основанных на характеристиках японского [一](https://github.com/mjolnika/japanese-russian-translationese/blob/main/Japanese_Russian_Translationese_prepare_features.ipynb)<br>
 2) исследование грамматических фичей [二](https://github.com/mjolnika/japanese-russian-translationese/blob/main/Machine_learning_on_translationese.ipynb)<br>
 3) исследование лексики [三](https://github.com/mjolnika/japanese-russian-translationese/blob/main/lexical%20study.ipynb)<br>
 4) примеры из тетради выше в docx файле и небольшие комментарии [四](https://github.com/mjolnika/japanese-russian-translationese/blob/main/EXAMPLES.docx)<br>
